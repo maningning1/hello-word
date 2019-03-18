@@ -1,2 +1,2 @@
 # hello-word
-Just study for github
+Just study github
